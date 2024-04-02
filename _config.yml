@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jianming Zheng / Homepage"
+title                    : "Jianming Zheng / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://jmzhengphys.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jianming Zheng"
+description              : &description "Third-year undergraduate from Tsinghua University"
+url                      : https://github.com/JianmingZhengPhys/jmzhengphys.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JianmingZhengPhys/jmzhengphys.github.io"
 
@@ -23,9 +23,10 @@ author:
   # Biographic information
   avatar           : "jianming.png"
   name             : "Jianming Zheng"
-  pronouns         : # example: "she/her"  
-  bio              : "Studying physics, hep amateur, ACGN fan."
-  location         : "Earth"
+  pronouns         : "he/him"# example: "she/her"  
+  bio              : "Studying physics"
+  location         : "Beijing, P.R.China"
+  employer         : #"Tsinghua University"
   uri              : # URL
   email            : "zhengjm314@gmail.com" 
 
@@ -41,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
