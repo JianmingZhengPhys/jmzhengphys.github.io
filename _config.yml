@@ -8,34 +8,34 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jianming Zheng / Personal Homepage"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Jianming Zheng"
-description              : &description "Third-year undergraduate from Tsinghua University"
-url                      : https://github.com/JianmingZhengPhys/jmzhengphys.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JianmingZhengPhys/jmzhengphys.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jianming.png"
-  name             : "Jianming Zheng"
-  pronouns         : "he/him"# example: "she/her"  
-  bio              : "Studying physics"
-  location         : "Beijing, P.R.China"
-  employer         : #"Tsinghua University"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "zhengjm314@gmail.com" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "http://orcid.org/yourorcidurl"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -64,13 +64,13 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : #"UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/shang-shang-shang-50-62"
+  zhihu            : # URL
 
 
 # Site Settings
