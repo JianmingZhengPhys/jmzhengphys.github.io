@@ -13,4 +13,6 @@ I've been doing research in the [Institute for Advanced Studies](https://www.ias
   
 You can find my CV here: [My curriculum vitae](assets/CV.pdf).  
   
-[Email](mailto:zhengjm314@gmail.com)/[Github](https://github.com/JianmingZhengPhys)
+I'm really keen on musicals, anime, and also all kinds of games. I'm currently trying to conquer Monster Hunter Rise. Besides, I occasionally play tennis.
+  
+Contact me if you like: [Email](mailto:zhengjm314@gmail.com)/[Github](https://github.com/JianmingZhengPhys)
