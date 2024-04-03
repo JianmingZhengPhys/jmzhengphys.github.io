@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Jianming Zheng's Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
