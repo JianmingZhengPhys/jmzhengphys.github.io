@@ -8,4 +8,4 @@ tags:
 ---
 
 This is a note on large N expansion of gauge theories. 
-You can find the file here: [LargeNQCD.pdf](jmzhengphys.github.io/files/LargeNQCD.pdf)
+You can find the file here: [LargeNQCD.pdf](../files/LargeNQCD.pdf)
