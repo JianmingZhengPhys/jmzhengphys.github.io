@@ -1,7 +1,7 @@
 ---
 title: 'Notes on Quantum Error Correction Codes and Statistical Mechanics'
 date: 2024-06-24
-permalink: /posts/2024/06/qec/
+permalink: /posts/2024/04/qec/
 tags:
   - Quantum Error Correction
   - Topological Codes
