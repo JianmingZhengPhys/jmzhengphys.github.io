@@ -9,4 +9,4 @@ tags:
 
 This is a final project for a course on quantum computation in Tsinghua, written in simplified Chinese. We discuss the mapping from the quantum error correction codes to a spin model on a lattice.
 
-You can find the file here: [My curriculum vitae](assets/QEC_and_Statistical_Mechanical_Model.pdf).
+You can find the file here: [QEC_and_Statistical_Mechanical_Model](assets/QEC_and_Statistical_Mechanical_Model.pdf).
