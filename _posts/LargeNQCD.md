@@ -1,7 +1,7 @@
 ---
 title: 'LargeNQCD'
 date: 2024-06-10
-permalink: /posts/2024/06/LargeNQCD/
+permalink: /posts/2024/05/LargeNQCD/
 tags:
   - QFT
   - Large N
