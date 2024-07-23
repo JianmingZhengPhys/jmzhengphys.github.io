@@ -1,7 +1,7 @@
 ---
 title: 'Tree Level Closed String Amplitudes'
 date: 2024-07-14
-permalink: /posts/2014/08/blog-post-3/
+permalink: /posts/2024/07/blog-post-3/
 tags:
   - String Theory
 ---
